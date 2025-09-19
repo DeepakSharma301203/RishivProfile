@@ -73,7 +73,7 @@ const HomePage = () => {
                     </p>
                     <div className="mt-8">
                         <a 
-                            href="#" 
+                            href="/Contact" 
                             className="inline-block bg-blue-600 text-white font-bold py-3 px-8 rounded-full hover:bg-blue-700 transition-colors duration-300 shadow-lg"
                         >
                             Contact Me
